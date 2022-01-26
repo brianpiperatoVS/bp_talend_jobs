@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_jLE6YH7dEey51sQ9aURPJg" label="BP_Talend_Job" language="java" technicalLabel="BP_TALEND_JOB" author="_jLE6YX7dEey51sQ9aURPJg" productVersion="Talend Cloud Data Management Platform-7.3.1.20210623_0656-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/brianpiperatoVS/bp_talend_jobs.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_jOT0kH7dEey51sQ9aURPJg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_jLE6YX7dEey51sQ9aURPJg" login="arsalan.aziz@vitaminshoppe.com" firstName="Arsalan" lastName="Aziz" type="DQ"/>
+</xmi:XMI>
